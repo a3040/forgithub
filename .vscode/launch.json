@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "command": "npm start",
+            "name": "start express1",
+            "cwd": "${workspaceFolder}/express1",
+            "request": "launch",
+            "type": "node-terminal" 
+        }
+    ]
+}
